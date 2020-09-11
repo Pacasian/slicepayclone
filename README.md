@@ -1,6 +1,6 @@
 # slicepayclone
 
-A clone app of Slice Pay -- only the design 
+A clone app of Slice Pay (**Use design only private use, not to for commercial use)
 
 ## Getting Started
 
