@@ -1,10 +1,10 @@
 # slicepayclone
 
-A clone app of Slice Pay (**Use design only private use, not to for commercial use)
+A clone app of Slice Pay (**Use design only private use, not for commercial use)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is build on Flutter.
 
 A few resources to get you started if this is your first Flutter project:
 
